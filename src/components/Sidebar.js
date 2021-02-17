@@ -1,4 +1,3 @@
-import userEvent from '@testing-library/user-event';
 import React from 'react';
 import '../styles/sidebar.css'
 import SidebarRow from './SidebarRow';
